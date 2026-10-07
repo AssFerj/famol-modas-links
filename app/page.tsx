@@ -13,33 +13,33 @@ interface Consultant {
 
 const CONSULTANTS: Consultant[] = [
   {
-    id: "luana",
-    name: "LUANA",
-    role: "GESTORA",
-    image: "/images/1.png",
-    phone: "5569992836755",
+    id: "vinicius",
+    name: "VINICIUS",
+    role: "CONSULTOR DE VENDAS",
+    image: "/images/5.png",
+    phone: "5588992763063",
   },
-  {
-    id: "veronica",
-    name: "VERÔNICA",
-    role: "CONSULTORA DE VENDAS",
-    image: "/images/3.png",
-    phone: "5588994428993",
-  },
-  {
-    id: "marlucia",
-    name: "MARLÚCIA",
-    role: "CONSULTORA DE VENDAS",
-    image: "/images/2.png",
-    phone: "5588994070679",
-  },
-  {
-    id: "cheila",
-    name: "CHEILA",
-    role: "CONSULTORA DE VENDAS",
-    image: "/images/4.png",
-    phone: "5588992849558",
-  },
+  // {
+  //   id: "veronica",
+  //   name: "VERÔNICA",
+  //   role: "CONSULTORA DE VENDAS",
+  //   image: "/images/3.png",
+  //   phone: "5588994428993",
+  // },
+  // {
+  //   id: "marlucia",
+  //   name: "MARLÚCIA",
+  //   role: "CONSULTORA DE VENDAS",
+  //   image: "/images/2.png",
+  //   phone: "5588994070679",
+  // },
+  // {
+  //   id: "cheila",
+  //   name: "CHEILA",
+  //   role: "CONSULTORA DE VENDAS",
+  //   image: "/images/4.png",
+  //   phone: "5588992849558",
+  // },
 ];
 
 export default function ExclusiveServicePage() {
